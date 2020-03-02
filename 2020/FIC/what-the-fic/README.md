@@ -117,13 +117,13 @@ Pour cela, nous utiliserons un binaire compilé en C. Il n'est pas possible d'ut
 
 Le rôle de ce binaire est de créer un interpréteur Bash avec les droits suid root :
 
-![setpath](images/c.png)
+![c](images/c.png)
 *Source: Orange Cyberdefense*
 
 
 Notre binaire `reallysuspiciousbin` étant prêt, il suffit de réexecuter de nouveau le binaire SUID `HarmfulBinary` pour activer notre payload :
 
-![setpath](images/root.png)
+![root](images/root.png)
 *Source: Orange Cyberdefense*
 
 
