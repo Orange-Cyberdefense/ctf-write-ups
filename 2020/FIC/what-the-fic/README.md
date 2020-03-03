@@ -16,6 +16,7 @@ Trouvez votre chemin pour devenir root.
 # Solution 
 
 Le participant devait lancer la commande suivante de façon à identifier les ports ouverts sur la machine : `nmap -sV -Pn -p- 192.168.1.24`
+
 Suite à cela, il remarque que les ports 4201, 8000 et 22 sont disponibles.
 
 
