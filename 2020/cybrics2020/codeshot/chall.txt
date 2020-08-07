@@ -1,0 +1,6 @@
+Author: Alexander Menshchikov (@n0str)
+
+Our startup department recently came up with a new code embedding service. You can share your code in image format. Check it out now, maybe you can provide us some free pentest 😼: codeshot-cybrics2020.ctf.su/
+
+Admin user has the flag in his private images.
+
